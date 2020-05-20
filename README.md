@@ -4,6 +4,7 @@
 * 'git status' - status of current git rep
 * 'git config -l' - List configuration of repo
 * 'git log' - Log of commits in this repo
+* 'git config --list' - List configuration of repo
 * 'git log --oneline' - Compact log listing
 * 'git branch' - Display git branch information
 
