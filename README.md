@@ -5,6 +5,7 @@
 * 'git config -l' - List configuration of repo
 * 'git log' - Log of commits in this repo
 * 'git log --oneline' - Compact log listing
+* 'git branch' - Display git branch information
 
 ### Basic Commands
 * 'git init' - Initialize a repo in current worrking directory
