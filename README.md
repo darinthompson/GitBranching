@@ -13,3 +13,6 @@
 * 'git commit -m "commit message"' - Commit staged data, with message
 * 'git commit' - Commit staged data, enter message in vi editor
 
+### Branching Commands
+* 'git branch branchName' - create branch 'branchName'
+* 'git checkout branchName' - Got to branch 'branchName'
